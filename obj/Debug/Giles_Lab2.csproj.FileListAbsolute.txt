@@ -1,0 +1,14 @@
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab2\obj\Debug\Giles_Lab2.csproj.AssemblyReference.cache
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab2\obj\Debug\Giles_Lab2.frmUpdateScore.resources
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab2\obj\Debug\Giles_Lab2.frmAddScore.resources
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab2\obj\Debug\Giles_Lab2.frmStudentScores.resources
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab2\obj\Debug\Giles_Lab2.frmUpdateStudentScores.resources
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab2\obj\Debug\Giles_Lab2.Properties.Resources.resources
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab2\obj\Debug\Giles_Lab2.csproj.GenerateResource.cache
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab2\obj\Debug\Giles_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab2\bin\Debug\Giles_Lab2.exe.config
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab2\bin\Debug\Giles_Lab2.exe
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab2\bin\Debug\Giles_Lab2.pdb
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab2\obj\Debug\Giles_Lab2.exe
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab2\obj\Debug\Giles_Lab2.pdb
+C:\Users\Decho\Documents\KT PSTCC\2311\Homework\Giles_Lab2\obj\Debug\Giles_Lab2.frmAddStudent.resources
